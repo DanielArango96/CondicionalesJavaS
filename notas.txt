@@ -1,0 +1,55 @@
+condicionales
+
+
+1-- simple= si
+if_ es la estructura de condicionales
+()- valor a evaluar
+{}-bloque de codigo a ejecutar
+if(){
+
+}
+
+operadores logicos
+
+<= --- menor o igual
+>= --- mayor o igual
+== --- igual
+=== --- igual estricto
+!= --- diferente
+&& --- Y
+|| --- O
+
+
+
+2-- condiocional compuesto
+if_ es la estructura de condicionales
+()- valor a evaluar
+{}-bloque de codigo a ejecutar
+else- estructura de condicion negativa
+{}- bloque de codigo a ejecutar
+if(){
+
+} else {
+
+}
+
+
+3-- Condicional anidado
+if_ es la estructura de condicionales
+()- valor a evaluar
+{}-bloque de codigo a ejecutar
+else- estructura de condicion negativa
+if- nueva estructura Condicional
+()-valor a evaluar
+{}- bloque de codigo a ejecutar
+if(){
+
+} else if () {
+
+}
+
+4--condicional multiple (menu de opciones)
+switch - estructura de condicion
+()- valor de expresion
+case- caso a evaluar
+{}- bloque de codigo a ejecutar
